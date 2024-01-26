@@ -273,7 +273,7 @@ border-radius: 30px;
 box-shadow: 3px 3px 10px rgb(188, 188, 188); 
 padding: 0px 20px 20px 20px; 
 } 
-.report-header { 
+.report-header {  
 height: 80px; 
 width: 100%; 
 display: flex; 
